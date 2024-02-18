@@ -1,16 +1,13 @@
-# chatapp
+# Flutter Firebase Chat App
 
-A new Flutter project.
+A Flutter project that leverages Firebase for authentication, Firestore database, and storage functionalities. The app allows users to participate in a community chat, interact personally with others, and upload their profile photos.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User authentication with Firebase Authentication.
+- Community chat where all logged-in users can participate.
+- Personalized private messaging between users.
+- Profile photo upload for personalized user profiles.
+- AI chat feature with Google Gemini.
+- Firestore database for storing chat messages and user information.
+- Firebase Storage for storing user profile photos.
