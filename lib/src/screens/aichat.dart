@@ -115,7 +115,7 @@ class _GeminiChatState extends State<GeminiChat> {
                                     });
                                   });
                                 },
-                                icon: Icon(Icons.send))
+                                icon: Icon(Icons.send,color: Colors.blue,))
                           ],
                         ),
                       ],

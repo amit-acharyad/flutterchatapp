@@ -100,5 +100,5 @@ class MainScreenState extends State<MainScreen> {
   }
 }
 
-List labels = ["Home", "Chat","Ai Chat", "Profile"];
-List icons = [Icons.home, Icons.chat,Icons.mobile_friendly, Icons.person];
+List labels = ["Home", "Chat","Gemini", "Profile"];
+List icons = [Icons.home, Icons.chat,Icons.android_outlined, Icons.person];

@@ -103,7 +103,7 @@ class Chat extends StatelessWidget {
                         });
                         _messageController.clear();
                       },
-                      child: Icon(Icons.send))
+                      child: Icon(Icons.send,color: Colors.blue,))
                 ],
               ),
             )
